@@ -1,4 +1,4 @@
-# Stepas to run
+# Steps to run
 
 1. Please go the folder which you wanna run with.
 2. Make sure you have installed npm (node package manager in your system).
