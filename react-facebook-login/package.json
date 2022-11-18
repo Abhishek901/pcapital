@@ -8,7 +8,7 @@
     "react-facebook-login": "^3.6.2",
     "react-map-gl": "^3.0.4",
     "react-router-dom": "^4.2.0",
-    "react-scripts": "1.0.11",
+    "react-scripts": "5.0.1",
     "raf": "^3.3.2"
   },
   "scripts": {
